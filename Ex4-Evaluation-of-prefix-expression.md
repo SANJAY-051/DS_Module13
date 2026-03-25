@@ -1,5 +1,5 @@
 # Ex4 Evaluation of prefix expression
-## DATE:
+## DATE: 25/03/2026
 ## AIM:
 To write a C function to evaluate the given prefix expression using stack and print the output of the given prefix expression from the stack inside the function . 
 
